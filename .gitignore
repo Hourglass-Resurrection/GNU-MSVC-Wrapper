@@ -1,0 +1,10 @@
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
+*.exe
+*.pdb
+*.ilk
+ipch/
+GCC-cl-Wrapper/Debug/
+GCC-cl-Wrapper/Release/
